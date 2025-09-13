@@ -1,0 +1,5 @@
+{
+  "name": "Bobby Sender",
+  "description": "A web app to help users paste multiple emails, create a subject and body template, automatically personalize them, and send each email through Gmail with one click.",
+  "requestFramePermissions": []
+}
